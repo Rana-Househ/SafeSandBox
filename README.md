@@ -1,6 +1,6 @@
 # Hedy & Batty
 
-Live site: ADD-LIVE-URL-HERE
+Live site: https://seemadejani.github.io/Hedy-Batty/
 
 HTML, CSS and JavaScript only. Open `index.html` or host the folder as a static site.
 
